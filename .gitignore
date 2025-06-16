@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python virtual environment
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# CSV, data dumps or datasets (if large or sensitive, uncomment this)
+# *.csv
+# *.h5
+# *.json
+# *.xlsx
+
+# Temporary files
+*.bak
+*.tmp
